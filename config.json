@@ -80,6 +80,10 @@
     "jingma": {
       "api": "https://360zy.com/api.php/provide/vod",
       "name": "360资源"
+    },
+    "kuaichen": {
+      "api": "https://caiji.kuaichezy.org/api.php/provide/vod",
+      "name": "快车资源"
     }
   }
 }
