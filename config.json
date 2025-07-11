@@ -78,8 +78,8 @@
       "name": "iKun资源"
     },
     "jingma": {
-      "api": "https://api.jmzy.com/api.php/provide/vod",
-      "name": "金马资源"
+      "api": "https://360zy.com/api.php/provide/vod",
+      "name": "360资源"
     }
   }
 }
