@@ -82,8 +82,8 @@
       "name": "360资源"
     },
     "kuaichen": {
-      "api": "https://api.yzzy-api.com/inc/api_mac10.php/provide/vod",
-      "name": "优质资源站"
+      "api": "https://ikunzyapi.com/api.php/provide/vod",
+      "name": "爱坤"
     }
   }
 }
