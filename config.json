@@ -82,7 +82,7 @@
       "name": "360资源"
     },
     "kuaichen": {
-      "api": "http://cj.ffzyapi.com/api.php/provide/vod/from/ffm3u8/?ac=list",
+      "api": "http://cj.ffzyapi.com/api.php/provide/vod",
       "name": "量子"
     }
   }
