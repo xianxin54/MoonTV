@@ -84,10 +84,6 @@
     "kuaichen": {
       "api": "http://cj.ffzyapi.com/api.php/provide/vod",
       "name": "量子"
-    },
-    "huohu": {
-      "api": "https://hhzyapi.com/api.php/provide/vod",
-      "name": "火狐"
     }
   }
 }
